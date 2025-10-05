@@ -1,0 +1,5 @@
+Linux:
+
+1. flyway CLI Files
+2. Postgres server-> command: docker run -i -t -d -p 5432:5432 --name some-postgres -e POSTGRES_PASSWORD=Root@123 -d postgres
+3. Tool: DBeaver 
